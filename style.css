@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+}
+.p1{
+    text-align: center;
+}
+.p2{
+    font-family: Georgia;
+    text-align: center;    
+}
+.p3{
+    text-align: center;
+    color: white;
+    font-size: 150%;
+    background-color: black;
+}
+.p4{
+    font-family: Cambria;
+    color: white;
+    text-align: right;
+    font-size: 120%;
+    background-color: black;
+}
+.p5{
+    font-family: Tahoma;
+    color: #232323;
+    font-size: 110%;
+}
+.p6{
+    font-family:Georgia;
+    color: white;   
+}
+.p7{
+    font-size: 200%;
+    font-style: italic;
+}
+.p8{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.p9{
+    font-family: Tahoma;
+    color: #009900;
+    font-size: 120%;
+}
+.p10{
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+.p11{
+    text-shadow: 5px 5px 10px black;
+    color:  #5BBB77;
+}
+.p12{
+    text-shadow: 2px 2px 5px black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 130%;
+}
+    
